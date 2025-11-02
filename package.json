@@ -38,7 +38,7 @@
     "big-integer": "^1.6.48",
     "bignum": "^0.13.1",
     "bitcoinjs-lib": "git+https://github.com/bitcoinjs/bitcoinjs-lib.git",
-    "merkle-bitcoin": "git+https://github.com/joshuayabut/merkle-bitcoin.git",
+    "merkle-bitcoin": "git+https://github.com/DirtyHarryDev/merkle-bitcoin.git",
     "promise": "*",
     "sha3": "git+https://github.com/phusion/node-sha3.git"
   },
@@ -47,7 +47,7 @@
   "engines": {
     "node": ">=8.17.0"
   },
-  "homepage": "https://github.com/J-A-M-P-S/jamps-kawpow-stratum",
+  "homepage": "https://github.com/LabyrinthCore/kawpow-stratum",
   "keywords": [
     "stratum",
     "mining",
